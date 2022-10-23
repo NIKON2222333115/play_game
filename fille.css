@@ -1,0 +1,44 @@
+.imge1{
+    height: 1000px;
+    width: 100%;
+}
+.text1{
+    font-size: 40px;
+    margin-bottom: 250px;
+}
+.text{
+    background-color: white;
+    text-align: center;
+}
+.text2{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.text3{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    margin-bottom: 250px;
+}
+.ip{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 45%;
+}
+.version{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 45%;
+}.tl{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-left: 45%;
+}
